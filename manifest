@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0
+apiversion: 2
+description: ADK module
+author: isis re-direct (Katsumi ISHIDA)
+license: commercial license or MIT license for community
+copyright: Copyright (c) 2012 by k.i.office (Katsumi ISHIDA)
+
+
+# these should not be edited
+name: adk
+moduleid: jp.isisredirect.adk
+guid: b16a4ea1-5540-4351-b3ee-2428996f6e0d
+platform: android
+minsdk: 2.1.0
