@@ -42,7 +42,7 @@ import android.os.ParcelFileDescriptor;
 @Kroll.module(name = "Adk", id = "jp.isisredirect.adk")
 public class AdkModule extends KrollModule implements Runnable {
 	private static final String LCAT = "AdkModule";
-	private static final boolean DBG = true;// TiConfig.LOGD;
+	private static final boolean DBG = TiConfig.LOGD;
 
 	private static final String ACTION_USB_PERMISSION = "jp.isisredirect.adk.action.USB_PERMISSION";
 

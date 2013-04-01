@@ -5,9 +5,9 @@
 version: 2.0
 apiversion: 2
 description: ADK module
-author: isis re-direct (Katsumi ISHIDA)
-license: commercial license or MIT license for community
-copyright: Copyright (c) 2012 by k.i.office (Katsumi ISHIDA)
+author: Katsumi ISHIDA
+license: see license file
+copyright: Copyright (c) 2013 Katsumi ISHIDA. All rights reserved.
 
 
 # these should not be edited
