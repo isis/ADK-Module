@@ -29,7 +29,7 @@ View the [Using Titanium Modules](https://wiki.appcelerator.org/display/tis/Usin
 
 ## System requirements
 
-+Target Android device : must support ADK .
++	Target Android device : must support ADK .
 	
 Google API 2.3.4 (API level 10) or later  
 Google API 3.1 (API Level 12) or later  
@@ -42,7 +42,8 @@ You should check whether your target Android devices support ADK.
 		
 Note : Android emulator does not support ADK because of its mechanism. It is necessary for the developer to use *REAL* Android device that supports ADK.
 
-+Arduino : must support ADK (available to connect as USB host).  
++	Arduino : must support ADK (available to connect as USB host). 
+ 
 The list of ADK compatible boards by Google is here :  
 [Android Open Accessory Development Kit](http://developer.android.com/guide/topics/usb/adk.html)
 	
